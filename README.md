@@ -23,3 +23,7 @@ Cheat Sheet SQL
 ------------------
 ### Example
 ![](/imagens/ex1.jpg)
+
+------------------
+### Cardinality
+![](/imagens/bancoConceito.png)
